@@ -1,4 +1,4 @@
-# cloud-finance-app - Cloud Computing Project
+# Cloud Finance App - Cloud Computing Project
 
 ## What is this?
 A cloud-based application built on AWS that demonstrates core cloud computing concepts including storage, serverless functions, and deployment. The app processes and stores financial data in the cloud. 
