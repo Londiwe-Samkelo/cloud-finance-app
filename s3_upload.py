@@ -4,7 +4,7 @@ from botocore.exceptions import ClientError
 #Initialize S3 client
 s3 = boto3.client('s3')
 
-BUCKET_NAME = 'sam-finance-tracker-bucket'
+BUCKET_NAME = 'samkelo-cloud-finance-app-2026'
 LOCAL_FILE = '../personal-finance-tracker/data/transactions.csv'
 S3_FILE_NAME = 'transactions.csv'
 

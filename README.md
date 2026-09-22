@@ -16,7 +16,8 @@ I am an aspiring developer working towards a career in FinTech. This project exp
 's3_upload.py' contains three functions:
 - 'upload_file_to_s3()' - uploads a local CSV file to an S3 bucket 
 - 'list_bucket_contents()' - lists all files currently stored in the bucket
-- 'download_file_from_s3()' - downloads a file from the bucket  
+- 'download_file_from_s3()' - downloads a file from the bucket 
+Tested against a live S3 bucket('samkelo-cloud-finance-app-2026') - upload, list and download all confirmed working.  
 
 
 <!-- ## Project Stages
