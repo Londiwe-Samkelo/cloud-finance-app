@@ -34,8 +34,11 @@ Tested against a live S3 bucket('samkelo-cloud-finance-app-2026') - upload, list
 
 
 ## AWS Educate Progress
-- [ ] Introduction to the AWS Management Console
-- [ ] Introduction to Cloud 101
+- [x] Introduction to the AWS Management Console
+- [x] Introduction to Cloud 101
 
 ## Demo 
 Coming soon - Youtube link will be added here. 
+
+WTC-729NJB5W
+
