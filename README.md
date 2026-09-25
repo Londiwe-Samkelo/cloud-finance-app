@@ -30,7 +30,7 @@ Tested against a live S3 bucket('samkelo-cloud-finance-app-2026') - upload, list
 ## Project Stages
 - [x] Stage 1: Project setup and AWS Educate courses
 - [x] stage 2: boto3 S3 intergration script (upload, list, download)
-- [ ] stage 3: Demo and documentation
+- [x] stage 3: Demo and documentation
 
 
 ## AWS Educate Progress
@@ -38,7 +38,7 @@ Tested against a live S3 bucket('samkelo-cloud-finance-app-2026') - upload, list
 - [x] Introduction to Cloud 101
 
 ## Demo 
-Coming soon - Youtube link will be added here. 
+https://youtu.be/Gq4lfGgdlXM
 
 WTC-729NJB5W
 
